@@ -4,5 +4,5 @@ BLR core made by natisan i guess
 make sure ur being smart and ur following the messages in the worlds folder
 
 
-DOWNLOAD LATEST RELEASE IN THE RELEASES TAB:
+DOWNLOAD LATEST RELEASE IN THE RELEASES TAB: https://github.com/NatisanStreams/BLR-Core/releases
 thank you
